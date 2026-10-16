@@ -99,3 +99,5 @@ This project is released under the MIT License, subject to the terms in [`LICENS
 ---
 
 *An independent community effort to make Technocore and TCLK easier to understand, test, and discuss.*
+
+My did: did:key:z6MkhX1xEUTiz9WhkPC9a7Xej54KptJC1ctkPE2jgJwMKR4r
